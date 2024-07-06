@@ -1,7 +1,7 @@
 ### Hello World!
 I'm Sharing About My Journey and Learnings in Tech
 <br/>
-Studied Computer Science at the Philadelphia University of Jordan, Amman
+Studied Computer Science at Philadelphia University
 <br/>
 <br/>
 
