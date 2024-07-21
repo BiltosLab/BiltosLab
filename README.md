@@ -3,7 +3,7 @@ I'm Sharing About My Journey and Learnings in Tech
 <br/>
 4th year Computer Science student at Philadelphia University.
 <br/><br/>
-### Favorite Quote
+### Inspiration
 > "Potential is only the expression of a possibility, something that can be accessed accurately only in retrospect. In other words, you will never know how good you might have become unless you try." - Mike Mentzer<br/>
 <br/>
 
