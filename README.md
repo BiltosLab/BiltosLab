@@ -1,7 +1,6 @@
 ### Hi!
-I'm Sharing About My Journey and Learnings in Tech
-<br/>
-4th year Computer Science student at Philadelphia University.
+I'm sharing my journey and learnings in tech.
+<br/> Fresh graduate in Computer Science from Philadelphia University.
 <br/>
 
 ### Tech Stack:
