@@ -11,5 +11,5 @@ I'm sharing my journey and learnings in tech.
 
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=BiltosLab&theme=dark&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://github-readme-streak-stats-eight.vercel.app/?user=BiltosLab&theme=dark&hide_border=true&border_radius=5&card_width=800">
 </p>
